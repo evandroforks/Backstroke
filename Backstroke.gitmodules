@@ -306,5 +306,19 @@ backstroke = https://backstroke.us/_59bdc019977610001c9f10ac
 [submodule "Packages/Case Conversion"]
 url = https://github.com/evandrocoan/CaseConversion
 upstream = https://github.com/jdc0589/CaseConversion
-backstroke = https://backstroke.us/_59bf24c3b39949001cc27602
+backstroke = https://backstroke.us/_59bfe839b39949001cc2760e
 
+[submodule "Packages/ApplySyntax"]
+url = https://github.com/evandrocoan/ApplySyntax
+upstream = https://github.com/facelessuser/ApplySyntax
+backstroke = https://backstroke.us/_59bfe7a6b39949001cc2760d
+
+[submodule "Packages/x86 and x86_64 Assembly"]
+url = https://github.com/evandrocoan/x86-assembly-textmate-bundle
+upstream = https://github.com/13xforever/x86-assembly-textmate-bundle
+backstroke = https://backstroke.us/_59c073bf765460001cee6fd0
+
+[submodule "Packages/Increment Selection"]
+url = https://github.com/evandrocoan/Incrementor
+upstream = https://github.com/eBookArchitects/Incrementor
+backstroke = https://backstroke.us/_59c09016765460001cee6fd1
