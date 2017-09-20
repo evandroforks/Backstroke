@@ -322,3 +322,8 @@ backstroke = https://backstroke.us/_59c073bf765460001cee6fd0
 url = https://github.com/evandrocoan/Incrementor
 upstream = https://github.com/eBookArchitects/Incrementor
 backstroke = https://backstroke.us/_59c09016765460001cee6fd1
+
+[submodule "Packages/TabsExtra"]
+url = https://github.com/evandrocoan/TabsExtra
+upstream = https://github.com/facelessuser/TabsExtra
+backstroke = https://backstroke.us/_59c17056f391ac001c795f7f
