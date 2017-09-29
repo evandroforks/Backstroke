@@ -1,4 +1,4 @@
-[module "Packages"]
+[submodule "Packages"]
 url = https://github.com/evandrocoan/Packages
 upstream = https://github.com/sublimehq/Packages
 backstroke = https://backstroke.us/_597c110daabbc2001cbd4a9b
@@ -327,3 +327,365 @@ backstroke = https://backstroke.us/_59c09016765460001cee6fd1
 url = https://github.com/evandrocoan/TabsExtra
 upstream = https://github.com/facelessuser/TabsExtra
 backstroke = https://backstroke.us/_59c17056f391ac001c795f7f
+
+[submodule "Packages/Increment Selection"]
+url = https://github.com/evandrocoan/IncrementSelection
+upstream = https://github.com/yulanggong/IncrementSelection
+backstroke = https://backstroke.us/_59ca92c9843909001cd1c8da
+
+[submodule "Packages/AutomaticPackageReloader"]
+url = https://github.com/evandrocoan/AutomaticPackageReloader
+upstream = https://github.com/randy3k/AutomaticPackageReloader
+backstroke = https://backstroke.us/_59cd41ce408205001c3c26a2
+
+[submodule "Packages/LaTeXSmartQuotes"]
+url = https://github.com/evandrocoan/sublime-text-latex-smart-quotes
+upstream = https://github.com/r-stein/sublime-text-latex-smart-quotes
+backstroke = https://backstroke.us/_59cd423a408205001c3c26a3
+
+[submodule "Packages/A File Icon"]
+url = https://github.com/ihodev/a-file-icon
+upstream = https://github.com/evandrocoan/a-file-icon
+backstroke = https://backstroke.us/_59cd449f408205001c3c26a8
+
+[submodule "Packages/Alignment"]
+url = https://github.com/evandrocoan/sublime_alignment
+upstream = https://github.com/wbond/sublime_alignment
+backstroke = https://backstroke.us/_59cd427f408205001c3c26a4
+
+[submodule "Packages/Auto Refresh"]
+url = https://github.com/evandrocoan/AutoRefresh
+upstream = https://github.com/Waterflames/AutoRefresh
+backstroke = https://backstroke.us/_59cd42cc408205001c3c26a5
+
+[submodule "Packages/BracketHighlighter"]
+url = https://github.com/evandrocoan/BracketHighlighter
+upstream = https://github.com/facelessuser/BracketHighlighter
+backstroke = https://backstroke.us/_59cd4337408205001c3c26a6
+
+[submodule "Packages/C++ Completions"]
+url = https://github.com/evandrocoan/CPP-Completions
+upstream = https://github.com/tushortz/CPP-Completions
+backstroke = https://backstroke.us/_59cd4395408205001c3c26a7
+
+[submodule "Packages/C++ Snippets"]
+url = https://github.com/evandrocoan/cpp-sublime-snippet
+upstream = https://github.com/Rapptz/cpp-sublime-snippet
+backstroke = https://backstroke.us/_59cd44df408205001c3c26a9
+
+[submodule "Packages/Chain of Command"]
+url = https://github.com/evandrocoan/ChainOfCommand
+upstream = https://github.com/jisaacks/ChainOfCommand
+backstroke = https://backstroke.us/_59cd451b408205001c3c26aa
+
+[submodule "Packages/ChangeQuotes"]
+url = https://github.com/evandrocoan/SublimeChangeQuotes
+upstream = https://github.com/colinta/SublimeChangeQuotes
+backstroke = https://backstroke.us/_59cd4558408205001c3c26ac
+
+[submodule "Packages/Clickable URLs"]
+url = https://github.com/evandrocoan/ClickableUrls_SublimeText
+upstream = https://github.com/leonid-shevtsov/ClickableUrls_SublimeText
+backstroke = https://backstroke.us/_59cd45a3408205001c3c26ad
+
+[submodule "Packages/ColorSchemeEditor"]
+url = https://github.com/evandrocoan/ColorSchemeEditor
+upstream = https://github.com/bobef/ColorSchemeEditor
+backstroke = https://backstroke.us/_59cd4632408205001c3c26ae
+
+[submodule "Packages/Column Select"]
+url = https://github.com/evandrocoan/Sublime-Column-Select
+upstream = https://github.com/ehuss/Sublime-Column-Select
+backstroke = https://backstroke.us/_59cd4558408205001c3c26ab
+
+[submodule "Packages/Delete Current File"]
+url = https://github.com/evandrocoan/Sublime-DeleteCurrentFile
+upstream = https://github.com/yaworsw/Sublime-DeleteCurrentFile
+backstroke = https://backstroke.us/_59cd7f37408205001c3c26af
+
+[submodule "Packages/DictionaryAutoComplete"]
+url = https://github.com/evandrocoan/DictionaryAutoComplete
+upstream = https://github.com/Zinggi/DictionaryAutoComplete
+backstroke = https://backstroke.us/_59cd7f6b408205001c3c26b0
+
+[submodule "Packages/DistractionFreeWindow"]
+url = https://github.com/evandrocoan/DistractionFreeWindow
+upstream = https://github.com/aziz/DistractionFreeWindow
+backstroke = https://backstroke.us/_59cd7fb9408205001c3c26b1
+
+[submodule "Packages/DuplicateSelections"]
+url = https://github.com/evandrocoan/SublimeDuplicateSelections
+upstream = https://github.com/colinta/SublimeDuplicateSelections
+backstroke = https://backstroke.us/_59cd8018408205001c3c26b2
+
+[submodule "Packages/Edit Preferences"]
+url = https://github.com/evandrocoan/EditPreferences
+upstream = https://github.com/sublimator/EditPreferences
+backstroke = https://backstroke.us/_59cd8052408205001c3c26b3
+
+[submodule "Packages/Emmet"]
+url = https://github.com/evandrocoan/emmet-sublime
+upstream = https://github.com/sergeche/emmet-sublime
+backstroke = https://backstroke.us/_59cd80c9408205001c3c26b4
+
+[submodule "Packages/Extract Text to File"]
+url = https://github.com/evandrocoan/sublime-extract-to-file
+upstream = https://github.com/dreki/sublime-extract-to-file
+backstroke = https://backstroke.us/_59cd810c408205001c3c26b5
+
+[submodule "Packages/File History"]
+url = https://github.com/evandrocoan/FileHistory
+upstream = https://github.com/FichteFoll/FileHistory
+backstroke = https://backstroke.us/_59cd8162408205001c3c26b6
+
+[submodule "Packages/File Rename"]
+url = https://github.com/evandrocoan/FileRename
+upstream = https://github.com/brianlow/FileRename
+backstroke = https://backstroke.us/_59cd8b4a408205001c3c26b7
+
+[submodule "Packages/Find++"]
+url = https://github.com/evandrocoan/FindPlusPlus
+upstream = https://github.com/twolfson/FindPlusPlus
+backstroke = https://backstroke.us/_59cd8b6b408205001c3c26b8
+
+[submodule "Packages/FindKeyConflicts"]
+url = https://github.com/evandrocoan/FindKeyConflicts
+upstream = https://github.com/skuroda/FindKeyConflicts
+backstroke = https://backstroke.us/_59cd8b99408205001c3c26b9
+
+[submodule "Packages/Git"]
+url = https://github.com/evandrocoan/sublime-text-git
+upstream = https://github.com/kemayo/sublime-text-git
+backstroke = https://backstroke.us/_59cd8bb7408205001c3c26ba
+
+[submodule "Packages/GitGutter"]
+url = https://github.com/evandrocoan/GitGutter
+upstream = https://github.com/jisaacks/GitGutter
+backstroke = https://backstroke.us/_59cd8bd4408205001c3c26bb
+
+[submodule "Packages/GitHub Markdown Snippets"]
+url = https://github.com/evandrocoan/github_markdown_snippets
+upstream = https://github.com/praveenpuglia/github_markdown_snippets
+backstroke = https://backstroke.us/_59cd8bef408205001c3c26bc
+
+[submodule "Packages/Glue"]
+url = https://github.com/evandrocoan/glue
+upstream = https://github.com/chrissimpkins/glue
+backstroke = https://backstroke.us/_59cd8c14408205001c3c26bd
+
+[submodule "Packages/HighlightWords"]
+url = https://github.com/evandrocoan/HighlightWords
+upstream = https://github.com/seanliang/HighlightWords
+backstroke = https://backstroke.us/_59cd8c2e408205001c3c26be
+
+[submodule "Packages/Horizontal Scroll"]
+url = https://github.com/evandrocoan/sublime-horizontal-scroll
+upstream = https://github.com/TheOnlyRew/sublime-horizontal-scroll
+backstroke = https://backstroke.us/_59cd8c49408205001c3c26bf
+
+[submodule "Packages/BetterFindBuffer"]
+url = https://github.com/evandrocoan/BetterFindBuffer
+upstream = https://github.com/aziz/BetterFindBuffer
+backstroke = https://backstroke.us/_59cd8c5f408205001c3c26c0
+
+[submodule "Packages/Indent Size"]
+url = https://github.com/evandrocoan/sublime-indent-size
+upstream = https://github.com/socsieng/sublime-indent-size
+backstroke = https://backstroke.us/_59cd8c7a408205001c3c26c1
+
+[submodule "Packages/Javatar"]
+url = https://github.com/evandrocoan/Javatar
+upstream = https://github.com/spywhere/Javatar
+backstroke = https://backstroke.us/_59cd8c91408205001c3c26c2
+
+[submodule "Packages/LaTeX Word Count"]
+url = https://github.com/evandrocoan/SublimeLaTeXWordCount
+upstream = https://github.com/kevinstadler/SublimeLaTeXWordCount
+backstroke = https://backstroke.us/_59cd8cb0408205001c3c26c3
+
+[submodule "Packages/LESS"]
+url = https://github.com/evandrocoan/LESS-sublime
+upstream = https://github.com/danro/LESS-sublime
+backstroke = https://backstroke.us/_59cd8ccd408205001c3c26c4
+
+[submodule "Packages/Line Endings Unify"]
+url = https://github.com/evandrocoan/sublime-line-endings-unify
+upstream = https://github.com/vontio/sublime-line-endings-unify
+backstroke = https://backstroke.us/_59cd8d19408205001c3c26c5
+
+[submodule "Packages/Markdown Preview"]
+url = https://github.com/evandrocoan/sublimetext-markdown-preview
+upstream = https://github.com/revolunet/sublimetext-markdown-preview
+backstroke = https://backstroke.us/_59cd8d43408205001c3c26c6
+
+[submodule "Packages/Matlab Completions"]
+url = https://github.com/evandrocoan/Matlab-Completions
+upstream = https://github.com/tushortz/Matlab-Completions
+backstroke = https://backstroke.us/_59cd8d68408205001c3c26c7
+
+[submodule "Packages/MatlabFilenameAutoComplete"]
+url = https://github.com/evandrocoan/MatlabFilenameAutoComplete
+upstream = https://github.com/joepmoritz/MatlabFilenameAutoComplete
+backstroke = https://backstroke.us/_59cd8d81408205001c3c26c8
+
+[submodule "Packages/MaxPane"]
+url = https://github.com/evandrocoan/MaxPane
+upstream = https://github.com/jisaacks/MaxPane
+backstroke = https://backstroke.us/_59cd8dfe408205001c3c26c9
+
+[submodule "Packages/MoveText"]
+url = https://github.com/evandrocoan/SublimeMoveText
+upstream = https://github.com/colinta/SublimeMoveText
+backstroke = https://backstroke.us/_59cd8e29408205001c3c26ca
+
+[submodule "Packages/MultiEditUtils"]
+url = https://github.com/evandrocoan/Sublime-MultiEditUtils
+upstream = https://github.com/philippotto/Sublime-MultiEditUtils
+backstroke = https://backstroke.us/_59cd8e6e408205001c3c26cb
+
+[submodule "Packages/MySQL Snippets"]
+url = https://github.com/evandrocoan/sublime-sql-snippets
+upstream = https://github.com/ancor-dev/sublime-sql-snippets
+backstroke = https://backstroke.us/_59cd8e8d408205001c3c26cc
+
+[submodule "Packages/Number King"]
+url = https://github.com/evandrocoan/SublimeNumberKing
+upstream = https://github.com/hktonylee/SublimeNumberKing
+backstroke = https://backstroke.us/_59cd8ea5408205001c3c26cd
+
+[submodule "Packages/OverrideAudit"]
+url = https://github.com/evandrocoan/OverrideAudit
+upstream = https://github.com/OdatNurd/OverrideAudit
+backstroke = https://backstroke.us/_59cd9007408205001c3c26ce
+
+[submodule "Packages/PackageResourceViewer"]
+url = https://github.com/evandrocoan/PackageResourceViewer
+upstream = https://github.com/skuroda/PackageResourceViewer
+backstroke = https://backstroke.us/_59cd9039408205001c3c26cf
+
+[submodule "Packages/Path Translator"]
+url = https://github.com/evandrocoan/Path-Translator
+upstream = https://github.com/hbhakhra/Path-Translator
+backstroke = https://backstroke.us/_59cd9064408205001c3c26d0
+
+[submodule "Packages/PostScript"]
+url = https://github.com/evandrocoan/sublime-syntax-postscript
+upstream = https://github.com/Briles/sublime-syntax-postscript
+backstroke = https://backstroke.us/_59cd90d7408205001c3c26d1
+
+[submodule "Packages/Qt Completions for C++"]
+url = https://github.com/evandrocoan/Qt-Completions-for-Cpp
+upstream = https://github.com/tushortz/Qt-Completions-for-Cpp
+backstroke =https://backstroke.us/_59cd9105408205001c3c26d2
+
+[submodule "Packages/ReIndent"]
+url = https://github.com/evandrocoan/Sublime-Text-ReIndent
+upstream = https://github.com/kamilkp/Sublime-Text-ReIndent
+backstroke = https://backstroke.us/_59cd9126408205001c3c26d3
+
+[submodule "Packages/ScopeHunter"]
+url = https://github.com/evandrocoan/ScopeHunter
+upstream = https://github.com/facelessuser/ScopeHunter
+backstroke = https://backstroke.us/_59cd914d408205001c3c26d4
+
+[submodule "Packages/SQLExec"]
+url = https://github.com/evandrocoan/sublime-sqlexec
+upstream = https://github.com/jum4/sublime-sqlexec
+backstroke = https://backstroke.us/_59cd9174408205001c3c26d5
+
+[submodule "Packages/StickySearch"]
+url = https://github.com/evandrocoan/StickySearch
+upstream = https://github.com/vim-zz/StickySearch
+backstroke = https://backstroke.us/_59cd91ae408205001c3c26d6
+
+[submodule "Packages/ScopeAlways"]
+url = https://github.com/evandrocoan/Sublime-ScopeAlways
+upstream = https://github.com/yaworsw/Sublime-ScopeAlways
+backstroke = https://backstroke.us/_59cd91db408205001c3c26d7
+
+[submodule "Packages/sublime-text-2-buildview"]
+url = https://github.com/evandrocoan/sublime-text-2-buildview
+upstream = https://github.com/rctay/sublime-text-2-buildview
+backstroke = https://backstroke.us/_59cd9238408205001c3c26d8
+
+[submodule "Packages/Swift"]
+url = https://github.com/evandrocoan/Swift-Sublime-Package
+upstream = https://github.com/quiqueg/Swift-Sublime-Package
+backstroke = https://backstroke.us/_59cd9269408205001c3c26d9
+
+[submodule "Packages/Sync View Scroll"]
+url = https://github.com/evandrocoan/syncViewScroll
+upstream = https://github.com/zzjin/syncViewScroll
+backstroke = https://backstroke.us/_59cd928c408205001c3c26da
+
+[submodule "Packages/TOML"]
+url = https://github.com/evandrocoan/sublime_toml_highlighting
+upstream = https://github.com/Jayflux/sublime_toml_highlighting
+backstroke = https://backstroke.us/_59cd94f0408205001c3c26dc
+
+[submodule "Packages/UnitTesting"]
+url = https://github.com/evandrocoan/UnitTesting
+upstream = https://github.com/randy3k/UnitTesting
+backstroke = https://backstroke.us/_59cdc241408205001c3c26e1
+
+[submodule "Packages/Whitespace"]
+url = https://github.com/evandrocoan/Whitespace
+upstream = https://github.com/randy3k/Whitespace
+backstroke = https://backstroke.us/_59cdc25e408205001c3c26e2
+
+[submodule "Packages/WordHighlight"]
+url = https://github.com/evandrocoan/WordHighlight
+upstream = https://github.com/SublimeText/WordHighlight
+backstroke = .
+
+[submodule "Packages/Terminal"]
+url = https://github.com/evandrocoan/sublime_terminal
+upstream = https://github.com/wbond/sublime_terminal
+backstroke = https://backstroke.us/_59cdc29e408205001c3c26e3
+
+[submodule "Packages/Sublime Tutor"]
+url = https://github.com/evandrocoan/SublimeTutor
+upstream = https://github.com/jaipandya/SublimeTutor
+backstroke = https://backstroke.us/_59cdc2d7408205001c3c26e4
+
+[submodule "Packages/Jedi - Python autocompletion"]
+url = https://github.com/evandrocoan/SublimeJEDI
+upstream = https://github.com/srusskih/SublimeJEDI
+backstroke = https://backstroke.us/_59cdc2f7408205001c3c26e5
+
+[submodule "Packages/SQLTools"]
+url = https://github.com/evandrocoan/SQLTools
+upstream = https://github.com/mtxr/SQLTools
+backstroke = https://backstroke.us/_59cdc319408205001c3c26e6
+
+[submodule "Packages/Syntax Highlighting for Sass"]
+url = https://github.com/evandrocoan/Syntax-highlighting-for-Sass
+upstream = https://github.com/P233/Syntax-highlighting-for-Sass
+backstroke = https://backstroke.us/_59cdc33d408205001c3c26e7
+
+[submodule "Packages/ConvertToUTF8"]
+url = https://github.com/evandrocoan/ConvertToUTF8
+upstream = https://github.com/seanliang/ConvertToUTF8
+backstroke = https://backstroke.us/_59cdc360408205001c3c26e8
+
+[submodule "Packages/Random Everything"]
+url = https://github.com/evandrocoan/random-sublime-text-plugin
+upstream = https://github.com/kimpettersen/random-sublime-text-plugin
+backstroke = https://backstroke.us/_59cdc381408205001c3c26e9
+
+[submodule "Packages/Insert Nums"]
+url = https://github.com/evandrocoan/InsertNums
+upstream = https://github.com/jbrooksuk/InsertNums
+backstroke = https://backstroke.us/_59cdc3a2408205001c3c26ea
+
+[submodule "Packages/AutoWrap"]
+url = https://github.com/evandrocoan/AutoWrap
+upstream = https://github.com/randy3k/AutoWrap
+backstroke = https://backstroke.us/_59cdc3bd408205001c3c26eb
+
+[submodule "Packages/Toggle Words"]
+url = https://github.com/evandrocoan/ToggleWords
+upstream = https://github.com/gordio/ToggleWords
+backstroke = https://backstroke.us/_59cdc3d2408205001c3c26ec
+
+
