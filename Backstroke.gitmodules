@@ -636,7 +636,7 @@ backstroke = https://backstroke.us/_59cdc25e408205001c3c26e2
 [submodule "Packages/WordHighlight"]
 url = https://github.com/evandrocoan/WordHighlight
 upstream = https://github.com/SublimeText/WordHighlight
-backstroke = .
+backstroke = https://backstroke.us/_59d1af04c47da3001cce504a
 
 [submodule "Packages/Terminal"]
 url = https://github.com/evandrocoan/sublime_terminal
