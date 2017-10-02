@@ -318,7 +318,7 @@ url = https://github.com/evandrocoan/x86-assembly-textmate-bundle
 upstream = https://github.com/13xforever/x86-assembly-textmate-bundle
 backstroke = https://backstroke.us/_59c073bf765460001cee6fd0
 
-[submodule "Packages/Increment Selection"]
+[submodule "Packages/Incrementor"]
 url = https://github.com/evandrocoan/Incrementor
 upstream = https://github.com/eBookArchitects/Incrementor
 backstroke = https://backstroke.us/_59c09016765460001cee6fd1
