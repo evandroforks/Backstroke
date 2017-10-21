@@ -688,4 +688,29 @@ url = https://github.com/evandrocoan/ToggleWords
 upstream = https://github.com/gordio/ToggleWords
 backstroke = https://backstroke.us/_59cdc3d2408205001c3c26ec
 
+[submodule "Packages/ChannelManager/find_forks"]
+url = https://github.com/evandrocoan/find_forks
+upstream = https://github.com/frost-nzcr4/find_forks
+backstroke =
+
+[submodule "Packages/ChannelManager/six"]
+url = https://github.com/evandrocoan/six
+upstream = https://github.com/benjaminp/six
+backstroke =
+
+[submodule "Packages/ChannelManager/estimated_time_left"]
+url = https://github.com/evandrocoan/estimated_time_left
+upstream = https://github.com/arp2600/Etc
+backstroke =
+
+[submodule "Packages/x86 and x86_64 Assembly/vs code/x86_64-assembly-vscode"]
+url = https://github.com/evandrocoan/x86_64-assembly-vscode
+upstream = https://github.com/13xforever/x86_64-assembly-vscode
+backstroke =
+
+[submodule "Packages/x86 and x86_64 Assembly/atom/language-x86_64-assembly"]
+url = https://github.com/evandrocoan/language-x86_64-assembly
+upstream = https://github.com/13xforever/language-x86_64-assembly
+backstroke =
+
 
