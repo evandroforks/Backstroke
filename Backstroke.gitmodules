@@ -713,4 +713,8 @@ url = https://github.com/evandrocoan/language-x86_64-assembly
 upstream = https://github.com/13xforever/language-x86_64-assembly
 backstroke =
 
+[submodule "Packages/AceJump"]
+url = https://github.com/evandrocoan/ace-jump-sublime
+upstream = https://github.com/ice9js/ace-jump-sublime
+backstroke = https://api.backstroke.co/_5e3054c6ba21407c9c43a57de6b9cf27
 
