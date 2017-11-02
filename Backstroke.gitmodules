@@ -721,5 +721,5 @@ backstroke = https://api.backstroke.co/_5e3054c6ba21407c9c43a57de6b9cf27
 [submodule "Packages/Jump Along Indent"]
 url = https://github.com/evandrocoan/sublime_jump_along_indent
 upstream = https://github.com/mwean/sublime_jump_along_indent
-path =
+backstroke = https://api.backstroke.co/_2758c9245d324bfcb04bb485e62c5e4a
 
