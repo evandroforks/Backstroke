@@ -718,8 +718,12 @@ url = https://github.com/evandrocoan/ace-jump-sublime
 upstream = https://github.com/ice9js/ace-jump-sublime
 backstroke = https://api.backstroke.co/_5e3054c6ba21407c9c43a57de6b9cf27
 
+[submodule "Packages/AltUp"]
+path = Packages/AltUp
+url = https://github.com/evandrocoan/AltUp
+backstroke = https://api.backstroke.co/_4ed20a4ba87a49dd87ae9b0a09be35eb
+
 [submodule "Packages/Jump Along Indent"]
 url = https://github.com/evandrocoan/sublime_jump_along_indent
 upstream = https://github.com/mwean/sublime_jump_along_indent
-backstroke = https://api.backstroke.co/_2758c9245d324bfcb04bb485e62c5e4a
-
+backstroke = https://api.backstroke.co/_25fdd420190e4976b4b064011defd8b0
