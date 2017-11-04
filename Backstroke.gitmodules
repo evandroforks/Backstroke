@@ -732,3 +732,8 @@ backstroke = https://api.backstroke.co/_25fdd420190e4976b4b064011defd8b0
 url = https://github.com/evandrocoan/sublime-select-all-by-current-scope
 upstream = https://github.com/mreq/sublime-select-all-by-current-scope
 backstroke = https://api.backstroke.co/_14e27dab17b242e6948563dd40e404ed
+
+[submodule "Packages/ExpandRegion"]
+url = https://github.com/evandrocoan/sublime-expand-region
+upstream = https://github.com/aronwoost/sublime-expand-region
+backstroke = https://api.backstroke.co/_46034bdda2d54c948364c14d112aec0e
