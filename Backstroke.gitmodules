@@ -727,3 +727,8 @@ backstroke = https://api.backstroke.co/_4ed20a4ba87a49dd87ae9b0a09be35eb
 url = https://github.com/evandrocoan/sublime_jump_along_indent
 upstream = https://github.com/mwean/sublime_jump_along_indent
 backstroke = https://api.backstroke.co/_25fdd420190e4976b4b064011defd8b0
+
+[submodule "Packages/Select all by current scope"]
+url = https://github.com/evandrocoan/sublime-select-all-by-current-scope
+upstream = https://github.com/mreq/sublime-select-all-by-current-scope
+backstroke = https://api.backstroke.co/_14e27dab17b242e6948563dd40e404ed
