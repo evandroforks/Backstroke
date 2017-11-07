@@ -737,3 +737,8 @@ backstroke = https://api.backstroke.co/_14e27dab17b242e6948563dd40e404ed
 url = https://github.com/evandrocoan/sublime-expand-region
 upstream = https://github.com/aronwoost/sublime-expand-region
 backstroke = https://api.backstroke.co/_46034bdda2d54c948364c14d112aec0e
+
+[submodule "Packages/SemanticLineWrapping"]
+url = https://github.com/evandrocoan/sublime-semantic-wrap
+upstream = https://github.com/bordaigorl/sublime-semantic-wrap
+backstroke = https://api.backstroke.co/_7b22bc860c184e73ba71e44c692db9ec
