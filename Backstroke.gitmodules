@@ -280,13 +280,13 @@ backstroke = https://api.backstroke.co/_5984b8f9e1f85c001ca84d46
 
 [submodule "Packages/SublimeLinter"]
 url = https://github.com/evandrocoan/SublimeLinter3
-upstream = https://github.com/SublimeLinter/SublimeLinter-javac
-backstroke = https://api.backstroke.co/_5984b82fe1f85c001ca84d45
+upstream = https://github.com/SublimeLinter/SublimeLinter3
+backstroke = https://api.backstroke.co/_5984bba4e1f85c001ca84d47
 
 [submodule "Packages/SublimeLinter-javac"]
 url = https://github.com/evandrocoan/SublimeLinter-javac
 upstream = https://github.com/SublimeLinter/SublimeLinter-javac
-backstroke = https://api.backstroke.co/_5984bba4e1f85c001ca84d47
+backstroke = https://api.backstroke.co/_5984b82fe1f85c001ca84d45
 
 [submodule "evandrocoan/abntex2"]
 url = https://github.com/evandrocoan/abntex2
