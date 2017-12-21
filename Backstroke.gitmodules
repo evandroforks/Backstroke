@@ -742,3 +742,13 @@ backstroke = https://api.backstroke.co/_46034bdda2d54c948364c14d112aec0e
 url = https://github.com/evandrocoan/sublime-semantic-wrap
 upstream = https://github.com/bordaigorl/sublime-semantic-wrap
 backstroke = https://api.backstroke.co/_7b22bc860c184e73ba71e44c692db9ec
+
+[submodule "Packages/WordCount"]
+url = https://github.com/evandrocoan/WordCount
+upstream = https://github.com/titoBouzout/WordCount
+backstroke = https://api.backstroke.co/_d2b7be4e60bb44d29dbc9195fb0209e8
+
+[submodule "Packages/ColorSchemeUnit"]
+url = https://github.com/evandrocoan/sublime-color-scheme-unit
+upstream = https://github.com/gerardroche/sublime-color-scheme-unit
+backstroke = https://api.backstroke.co/_812ae3d80f074a3ca3ed155a430e4b7f
