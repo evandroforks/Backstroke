@@ -752,3 +752,8 @@ backstroke = https://api.backstroke.co/_d2b7be4e60bb44d29dbc9195fb0209e8
 url = https://github.com/evandrocoan/sublime-color-scheme-unit
 upstream = https://github.com/gerardroche/sublime-color-scheme-unit
 backstroke = https://api.backstroke.co/_812ae3d80f074a3ca3ed155a430e4b7f
+
+[submodule "Packages/LinesMultisets"]
+url = https://github.com/evandrocoan/LinesMultisets
+upstream = https://github.com/heldev/sublime-lines-multisets
+backstroke = https://api.backstroke.co/_18567e37f5bb403c99b51ae019e701bc
