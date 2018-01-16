@@ -757,3 +757,8 @@ backstroke = https://api.backstroke.co/_812ae3d80f074a3ca3ed155a430e4b7f
 url = https://github.com/evandrocoan/LinesMultisets
 upstream = https://github.com/heldev/sublime-lines-multisets
 backstroke = https://api.backstroke.co/_18567e37f5bb403c99b51ae019e701bc
+
+[submodule "Packages/LSP"]
+url = https://github.com/evandrocoan/LSP
+upstream = https://github.com/tomv564/LSP
+path = https://api.backstroke.co/_42a78d1531a646568c056ec56a2aad65
