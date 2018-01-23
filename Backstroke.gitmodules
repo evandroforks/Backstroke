@@ -768,3 +768,13 @@ url = https://github.com/evandrocoan/python-language-server
 upstream = https://github.com/palantir/python-language-server
 path = https://api.backstroke.co/_a4c3387d0f404267b78b30b87a48d7af
 
+[python pip package "SoftwareVersioning/pycodestyle"]
+url = https://github.com/evandroforks/pycodestyle
+upstream = https://github.com/PyCQA/pycodestyle
+path = https://api.backstroke.co/_c5ac8aefcf9e486693fd740a2b4481dd
+
+[submodule "Packages/PanelManager"]
+url = https://github.com/evandroforks/PanelManager
+upstream = https://github.com/stoivo/sublime_switch_panel
+path = https://api.backstroke.co/_0f92ad7ae9244894afc144298aa1f1e2
+
