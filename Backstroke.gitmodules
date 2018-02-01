@@ -778,3 +778,17 @@ url = https://github.com/evandroforks/PanelManager
 upstream = https://github.com/stoivo/sublime_switch_panel
 path = https://api.backstroke.co/_0f92ad7ae9244894afc144298aa1f1e2
 
+[python pip package "SoftwareVersioning/glogg"]
+url = https://github.com/evandroforks/glogg
+upstream = https://github.com/nickbnf/glogg
+path = https://api.backstroke.co/_edd9de6326914ade863eedbe534d9963
+
+[python pip package "SoftwareVersioning/rope"]
+url = https://github.com/evandroforks/rope
+upstream = https://github.com/python-rope/rope
+path = https://api.backstroke.co/_4c10a0bfa7134fc3b70393107e411129
+
+[submodule "Packages/LanguageTool"]
+url = https://github.com/evandroforks/LanguageTool
+upstream = https://github.com/gtarawneh/languagetool-sublime
+path = https://api.backstroke.co/_b574d630ef7947bba06e84123294a52b
