@@ -719,8 +719,8 @@ upstream = https://github.com/ice9js/ace-jump-sublime
 backstroke = https://api.backstroke.co/_5e3054c6ba21407c9c43a57de6b9cf27
 
 [submodule "Packages/AltUp"]
-path = Packages/AltUp
 url = https://github.com/evandrocoan/AltUp
+upstream = https://github.com/germtb/AltUp
 backstroke = https://api.backstroke.co/_4ed20a4ba87a49dd87ae9b0a09be35eb
 
 [submodule "Packages/Jump Along Indent"]
@@ -761,32 +761,32 @@ backstroke = https://api.backstroke.co/_18567e37f5bb403c99b51ae019e701bc
 [submodule "Packages/LSP"]
 url = https://github.com/evandrocoan/LSP
 upstream = https://github.com/tomv564/LSP
-path = https://api.backstroke.co/_42a78d1531a646568c056ec56a2aad65
+backstroke = https://api.backstroke.co/_42a78d1531a646568c056ec56a2aad65
 
 [python pip package "SoftwareVersioning/python-language-server"]
 url = https://github.com/evandrocoan/python-language-server
 upstream = https://github.com/palantir/python-language-server
-path = https://api.backstroke.co/_a4c3387d0f404267b78b30b87a48d7af
+backstroke = https://api.backstroke.co/_a4c3387d0f404267b78b30b87a48d7af
 
 [python pip package "SoftwareVersioning/pycodestyle"]
 url = https://github.com/evandroforks/pycodestyle
 upstream = https://github.com/PyCQA/pycodestyle
-path = https://api.backstroke.co/_c5ac8aefcf9e486693fd740a2b4481dd
+backstroke = https://api.backstroke.co/_c5ac8aefcf9e486693fd740a2b4481dd
 
 [submodule "Packages/PanelManager"]
 url = https://github.com/evandroforks/PanelManager
 upstream = https://github.com/stoivo/sublime_switch_panel
-path = https://api.backstroke.co/_0f92ad7ae9244894afc144298aa1f1e2
+backstroke = https://api.backstroke.co/_0f92ad7ae9244894afc144298aa1f1e2
 
 [python pip package "SoftwareVersioning/glogg"]
 url = https://github.com/evandroforks/glogg
 upstream = https://github.com/nickbnf/glogg
-path = https://api.backstroke.co/_edd9de6326914ade863eedbe534d9963
+backstroke = https://api.backstroke.co/_edd9de6326914ade863eedbe534d9963
 
 [python pip package "SoftwareVersioning/rope"]
 url = https://github.com/evandroforks/rope
 upstream = https://github.com/python-rope/rope
-path = https://api.backstroke.co/_4c10a0bfa7134fc3b70393107e411129
+backstroke = https://api.backstroke.co/_4c10a0bfa7134fc3b70393107e411129
 
 [submodule "Packages/LanguageTool"]
 url = https://github.com/evandroforks/LanguageTool
