@@ -791,4 +791,20 @@ backstroke = https://api.backstroke.co/_4c10a0bfa7134fc3b70393107e411129
 [submodule "Packages/LanguageTool"]
 url = https://github.com/evandroforks/LanguageTool
 upstream = https://github.com/gtarawneh/languagetool-sublime
-path = https://api.backstroke.co/_b574d630ef7947bba06e84123294a52b
+backstroke = https://api.backstroke.co/_b574d630ef7947bba06e84123294a52b
+
+[submodule "Packages/ShellEvaluate"]
+url = https://github.com/evandroforks/ShellEvaluate
+upstream = https://github.com/jbrooksuk/Sublime-Evaluate
+backstroke = https://api.backstroke.co/_fbdb1c88f3364de3afa4c15aecc34c23
+
+[submodule "Packages/EvalPrinter"]
+url = https://github.com/evandroforks/EvalPrinter
+upstream = https://github.com/philippotto/Sublime-EvalPrinter
+backstroke = https://api.backstroke.co/_fdb28af9f4c443fe9ad948e78b6a88c2
+
+[submodule "Packages/InlinePython"]
+url = https://github.com/evandroforks/InlinePython
+upstream = https://github.com/apiad/Sublime-InlinePython
+backstroke = https://api.backstroke.co/_b7393a4cbeac46c686491794d2f1592b
+
