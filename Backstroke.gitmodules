@@ -808,3 +808,13 @@ url = https://github.com/evandroforks/InlinePython
 upstream = https://github.com/apiad/Sublime-InlinePython
 backstroke = https://api.backstroke.co/_b7393a4cbeac46c686491794d2f1592b
 
+[submodule "Packages/concurrent-log-handler"]
+url = https://github.com/evandroforks/concurrent-log-handler
+upstream = https://github.com/Preston-Landers/concurrent-log-handler
+path = https://api.backstroke.co/_229b2df00b1747a5884d27cc36280a4f
+
+[submodule "Packages/portalocker"]
+url = https://github.com/evandroforks/portalocker
+upstream = https://github.com/WoLpH/portalocker
+path = https://api.backstroke.co/_f155ad8ed5884c509599261e9dcaef98
+
