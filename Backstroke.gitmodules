@@ -818,3 +818,8 @@ url = https://github.com/evandroforks/portalocker
 upstream = https://github.com/WoLpH/portalocker
 path = https://api.backstroke.co/_f155ad8ed5884c509599261e9dcaef98
 
+[submodule "Packages/PowerShell"]
+url = https://github.com/evandroforks/PowerShell
+upstream = https://github.com/SublimeText/PowerShell
+backstroke = https://api.backstroke.co/_988c604891cf42a0aa3452dc8e9491ca
+
