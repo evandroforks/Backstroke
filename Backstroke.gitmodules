@@ -823,3 +823,8 @@ url = https://github.com/evandroforks/PowerShell
 upstream = https://github.com/SublimeText/PowerShell
 backstroke = https://api.backstroke.co/_988c604891cf42a0aa3452dc8e9491ca
 
+[c++ project opendetex]
+url = https://github.com/evandroforks/opendetex
+upstream = https://github.com/pkubowicz/opendetex
+backstroke = https://api.backstroke.co/_b731db5bedd547f4a387b6c690f337b7
+
