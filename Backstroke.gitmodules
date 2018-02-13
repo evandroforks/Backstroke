@@ -833,3 +833,8 @@ url = https://github.com/evandroforks/PlantUmlDiagrams
 upstream = https://github.com/jvantuyl/sublime_diagram_plugin
 backstroke = https://api.backstroke.co/_d8c5e97b9cc8497dbafce20e542c6395
 
+[submodule "Packages/PlantUmlConnection"]
+url = https://github.com/evandroforks/PlantUmlConnection
+upstream = https://github.com/SamuelMarks/python-plantuml
+path = https://api.backstroke.co/_ffbb23b122cb4f46bb51b7861ca57b30
+
