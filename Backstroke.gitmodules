@@ -838,3 +838,8 @@ url = https://github.com/evandroforks/PlantUmlConnection
 upstream = https://github.com/SamuelMarks/python-plantuml
 path = https://api.backstroke.co/_ffbb23b122cb4f46bb51b7861ca57b30
 
+[submodule "Packages/python-pywin32"]
+url = https://github.com/evandroforks/python-pywin32
+upstream = https://github.com/randy3k/sublime-pywin32
+backstroke = https://api.backstroke.co/_6fc1e3b2e93747f6b8bb643abded2650
+
