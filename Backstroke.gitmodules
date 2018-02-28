@@ -843,3 +843,8 @@ url = https://github.com/evandroforks/python-pywin32
 upstream = https://github.com/randy3k/sublime-pywin32
 backstroke = https://api.backstroke.co/_6fc1e3b2e93747f6b8bb643abded2650
 
+[github "fork"]
+url = https://github.com/evandroforks/anki
+upstream = https://github.com/dae/anki
+backstroke = https://api.backstroke.co/_3ccc7f3745ed448892147712a2dc1250
+
