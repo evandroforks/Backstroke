@@ -853,3 +853,12 @@ url = https://github.com/evandroforks/tinyformat
 upstream = https://github.com/c42f/tinyformat
 backstroke = https://api.backstroke.co/_e273d299fd1a486f9c0c37f0a0e93d2c
 
+[github fork "mdaines/grammophone"]
+url = https://github.com/evandroforks/grammophone
+upstream = https://github.com/mdaines/grammophone
+backstroke = https://api.backstroke.co/_45e8cb8729be4f0f87d7c96234917df2
+
+[submodule "Packages/AutoHotkey"]
+url = https://github.com/evandroforks/SublimeAutoHotkey
+upstream = https://github.com/ahkscript/SublimeAutoHotkey
+backstroke = https://api.backstroke.co/_fc7e38070aa5404e9d5bdbbf32ac389a
