@@ -862,3 +862,9 @@ backstroke = https://api.backstroke.co/_45e8cb8729be4f0f87d7c96234917df2
 url = https://github.com/evandroforks/SublimeAutoHotkey
 upstream = https://github.com/ahkscript/SublimeAutoHotkey
 backstroke = https://api.backstroke.co/_fc7e38070aa5404e9d5bdbbf32ac389a
+
+[submodule "Packages/JSCustom"]
+url = https://github.com/evandroforks/JSCustom
+upstream = https://github.com/Thom1729/Sublime-JS-Custom
+backstroke = https://api.backstroke.co/_8c23b2077fe54bab9e92c37f1eccfd41
+
