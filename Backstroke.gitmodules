@@ -868,3 +868,13 @@ url = https://github.com/evandroforks/JSCustom
 upstream = https://github.com/Thom1729/Sublime-JS-Custom
 backstroke = https://api.backstroke.co/_8c23b2077fe54bab9e92c37f1eccfd41
 
+[submodule "Packages/TestPlier"]
+url = https://github.com/evandroforks/SublimeTestPlier
+upstream = https://github.com/asfaltboy/SublimeTestPlier
+backstroke = https://api.backstroke.co/_b6713c6ef6ff427bbd5af5226181fa26
+
+[submodule "Packages/LarkGrammarParser"]
+path = Packages/LarkGrammarParser
+url = https://github.com/evandroforks/lark_syntax
+backstroke = https://api.backstroke.co/_9dcc08999bdb43d995083da4b16cd5ce
+
