@@ -878,3 +878,8 @@ path = Packages/LarkGrammarParser
 url = https://github.com/evandroforks/lark_syntax
 backstroke = https://api.backstroke.co/_9dcc08999bdb43d995083da4b16cd5ce
 
+[submodule "Packages/SublimeLinter-pylint"]
+path = Packages/SublimeLinter-pylint
+url = https://github.com/evandroforks/SublimeLinter-pylint
+backstroke = https://api.backstroke.co/_63356bbcabf44b1ab3f69f82726edd3b
+
