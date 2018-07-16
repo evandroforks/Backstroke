@@ -883,3 +883,7 @@ path = Packages/SublimeLinter-pylint
 url = https://github.com/evandroforks/SublimeLinter-pylint
 backstroke = https://api.backstroke.co/_63356bbcabf44b1ab3f69f82726edd3b
 
+[submodule "Packages/BeautifyJavaScript"]
+url = https://github.com/evandroforks/BeautifyJavaScript
+upstream = https://github.com/victorporof/Sublime-HTMLPrettify
+backstroke = https://api.backstroke.co/_a3eac1e33eca4280b58b9ed74dc42010
