@@ -893,3 +893,13 @@ url = https://github.com/evandrocoan/ufscthesisx
 upstream = https://github.com/UFSC/ufscthesisx
 backstroke = https://api.backstroke.co/_9300b98a534f4758ba4b4b586886732c
 
+[VSCode fork]
+url = https://github.com/evandroforks/vscode
+upstream = https://github.com/Microsoft/vscode
+backstroke = https://api.backstroke.co/_c6027316b0f843e0a6d2882bb8f730ca
+
+[markdown-toc fork]
+url = https://github.com/evandroforks/markdown-toc
+upstream = https://github.com/jonschlinkert/markdown-toc
+backstroke = https://api.backstroke.co/_a45b3309f05145fc88a7c95354696af1
+
