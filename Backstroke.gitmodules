@@ -903,3 +903,27 @@ url = https://github.com/evandroforks/markdown-toc
 upstream = https://github.com/jonschlinkert/markdown-toc
 backstroke = https://api.backstroke.co/_a45b3309f05145fc88a7c95354696af1
 
+[vscode-textmate fork]
+url = https://github.com/evandroforks/vscode-textmate
+upstream = https://github.com/Microsoft/vscode-textmate
+backstroke = https://api.backstroke.co/_64c95fdd31834fcfa08d710d142ec813
+
+[vscode-copy-with-line-numbers fork]
+url = https://github.com/evandroforks/vscode-copy-with-line-numbers
+upstream = https://github.com/yassh/vscode-copy-with-line-numbers
+backstroke = https://api.backstroke.co/_c1bdaba35cb846e69c5e64f735ab9540
+
+[vscode-copy-with-line-numbers fork]
+url = https://github.com/evandroforks/lark
+upstream = https://github.com/lark-parser/lark
+backstroke = https://api.backstroke.co/_99cbcd9be91b45d1b9741de4a8243f44
+
+[submodule "Packages/Terminus"]
+url = https://github.com/evandroforks/Terminus
+upstream = https://github.com/randy3k/Terminus
+backstroke = https://api.backstroke.co/_3094e396c3fb4e088c87c16df95aceff
+
+[submodule "Packages/DiffMatchPatch"]
+url = https://github.com/evandroforks/DiffMatchPatch
+upstream = https://github.com/google/diff-match-patch
+backstroke = https://api.backstroke.co/_e90cbcef56e4407a98ca77062b2da9fd
