@@ -927,3 +927,9 @@ backstroke = https://api.backstroke.co/_3094e396c3fb4e088c87c16df95aceff
 url = https://github.com/evandroforks/DiffMatchPatch
 upstream = https://github.com/google/diff-match-patch
 backstroke = https://api.backstroke.co/_e90cbcef56e4407a98ca77062b2da9fd
+
+[module CygwinPortable]
+url = https://github.com/evandrocoan/CygwinPortable
+upstream = https://github.com/vegardit/cygwin-portable-installer
+backstroke = https://api.backstroke.co/_05f9e3dde07e4ee3b5926285a162081f
+
