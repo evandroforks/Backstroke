@@ -688,17 +688,17 @@ url = https://github.com/evandrocoan/ToggleWords
 upstream = https://github.com/gordio/ToggleWords
 backstroke = https://api.backstroke.co/_59cdc3d2408205001c3c26ec
 
-[submodule "Packages/ChannelManager/find_forks"]
+[submodule "Packages/channelmanager/find_forks"]
 url = https://github.com/evandrocoan/find_forks
 upstream = https://github.com/frost-nzcr4/find_forks
 backstroke =
 
-[submodule "Packages/ChannelManager/six"]
+[submodule "Packages/channelmanager/six"]
 url = https://github.com/evandrocoan/six
 upstream = https://github.com/benjaminp/six
 backstroke =
 
-[submodule "Packages/ChannelManager/estimated_time_left"]
+[submodule "Packages/channelmanager/estimated_time_left"]
 url = https://github.com/evandrocoan/estimated_time_left
 upstream = https://github.com/arp2600/Etc
 backstroke =
@@ -833,8 +833,8 @@ url = https://github.com/evandroforks/PlantUmlDiagrams
 upstream = https://github.com/jvantuyl/sublime_diagram_plugin
 backstroke = https://api.backstroke.co/_d8c5e97b9cc8497dbafce20e542c6395
 
-[submodule "Packages/PlantUmlConnection"]
-url = https://github.com/evandroforks/PlantUmlConnection
+[submodule "Packages/plantumlconnection"]
+url = https://github.com/evandroforks/plantumlconnection
 upstream = https://github.com/SamuelMarks/python-plantuml
 path = https://api.backstroke.co/_ffbb23b122cb4f46bb51b7861ca57b30
 
@@ -923,8 +923,8 @@ url = https://github.com/evandroforks/Terminus
 upstream = https://github.com/randy3k/Terminus
 backstroke = https://api.backstroke.co/_3094e396c3fb4e088c87c16df95aceff
 
-[submodule "Packages/DiffMatchPatch"]
-url = https://github.com/evandroforks/DiffMatchPatch
+[submodule "Packages/diffmatchpatch"]
+url = https://github.com/evandroforks/diffmatchpatch
 upstream = https://github.com/google/diff-match-patch
 backstroke = https://api.backstroke.co/_e90cbcef56e4407a98ca77062b2da9fd
 
