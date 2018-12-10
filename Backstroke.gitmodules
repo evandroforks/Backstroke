@@ -933,3 +933,17 @@ url = https://github.com/evandrocoan/CygwinPortable
 upstream = https://github.com/vegardit/cygwin-portable-installer
 backstroke = https://api.backstroke.co/_05f9e3dde07e4ee3b5926285a162081f
 
+[submodule "Packages/Default"]
+url = https://github.com/evandrocoan/SublimePackageDefault
+upstream = https://github.com/evandroforks/SublimePackageDefault
+backstroke = https://api.backstroke.co/_35f93a9595e147808a13d48cea406ea3
+
+[submodule "Packages/HexViewer"]
+url = https://github.com/evandroforks/HexViewer
+upstream = https://github.com/facelessuser/HexViewer
+backstroke = https://api.backstroke.co/_909a99682af24dbebae6420aa08ef4e8
+
+[vscode-colorize fork]
+url = https://github.com/evandroforks/vscode-colorize
+upstream = https://github.com/KamiKillertO/vscode-colorize
+backstroke = https://api.backstroke.co/_d00498c05f2544c3bf029d35e77cd5a4
