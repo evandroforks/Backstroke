@@ -514,8 +514,8 @@ upstream = https://github.com/vontio/sublime-line-endings-unify
 backstroke = https://api.backstroke.co/_59cd8d19408205001c3c26c5
 
 [submodule "Packages/Markdown Preview"]
-url = https://github.com/evandrocoan/sublimetext-markdown-preview
-upstream = https://github.com/revolunet/sublimetext-markdown-preview
+url = https://github.com/evandrocoan/MarkdownPreview
+upstream = https://github.com/facelessuser/MarkdownPreview
 backstroke = https://api.backstroke.co/_59cd8d43408205001c3c26c6
 
 [submodule "Packages/Matlab Completions"]
@@ -947,3 +947,8 @@ backstroke = https://api.backstroke.co/_909a99682af24dbebae6420aa08ef4e8
 url = https://github.com/evandroforks/vscode-colorize
 upstream = https://github.com/KamiKillertO/vscode-colorize
 backstroke = https://api.backstroke.co/_d00498c05f2544c3bf029d35e77cd5a4
+
+[submodule "Packages/sublime_lib"]
+url = https://github.com/evandrocoan/sublime_lib
+upstream = https://github.com/SublimeText/sublime_lib
+backstroke = https://api.backstroke.co/_698c3f37194349f794aeaa1e1dfa0187
