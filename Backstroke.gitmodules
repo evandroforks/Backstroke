@@ -344,8 +344,8 @@ upstream = https://github.com/r-stein/sublime-text-latex-smart-quotes
 backstroke = https://api.backstroke.co/_59cd423a408205001c3c26a3
 
 [submodule "Packages/A File Icon"]
-url = https://github.com/ihodev/a-file-icon
-upstream = https://github.com/evandrocoan/a-file-icon
+url = https://github.com/evandroforks/AFileIcon
+upstream = https://github.com/deathaxe/sublime-a-file-icon
 backstroke = https://api.backstroke.co/_59cd449f408205001c3c26a8
 
 [submodule "Packages/Alignment"]
