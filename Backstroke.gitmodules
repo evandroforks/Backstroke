@@ -952,3 +952,8 @@ backstroke = https://api.backstroke.co/_d00498c05f2544c3bf029d35e77cd5a4
 url = https://github.com/evandrocoan/sublime_lib
 upstream = https://github.com/SublimeText/sublime_lib
 backstroke = https://api.backstroke.co/_698c3f37194349f794aeaa1e1dfa0187
+
+[submodule "Packages/RemoveNonAsciiChars"]
+url = https://github.com/evandroforks/RemoveNonAsciiChars
+upstream = https://github.com/Gabriel-p/RemoveNonAsciiChars
+backstroke =
