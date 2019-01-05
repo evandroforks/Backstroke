@@ -766,7 +766,7 @@ branches = master->master,
 [python pip package "SoftwareVersioning/python-language-server"]
 url = https://github.com/evandrocoan/python-language-server
 upstream = https://github.com/palantir/python-language-server
-branches = master->master,
+branches = develop->develop,
 
 [python pip package "SoftwareVersioning/pycodestyle"]
 url = https://github.com/evandroforks/pycodestyle
@@ -811,12 +811,12 @@ branches = master->master,
 [submodule "Packages/concurrent-log-handler"]
 url = https://github.com/evandroforks/concurrent-log-handler
 upstream = https://github.com/Preston-Landers/concurrent-log-handler
-path = https://api.backstroke.co/_229b2df00b1747a5884d27cc36280a4f
+branches = master->master,
 
 [submodule "Packages/portalocker"]
 url = https://github.com/evandroforks/portalocker
 upstream = https://github.com/WoLpH/portalocker
-path = https://api.backstroke.co/_f155ad8ed5884c509599261e9dcaef98
+branches = master->master,
 
 [submodule "Packages/PowerShell"]
 url = https://github.com/evandroforks/PowerShell
@@ -836,7 +836,7 @@ branches = master->master,
 [submodule "Packages/plantumlconnection"]
 url = https://github.com/evandroforks/plantumlconnection
 upstream = https://github.com/SamuelMarks/python-plantuml
-path = https://api.backstroke.co/_ffbb23b122cb4f46bb51b7861ca57b30
+branches = master->master,
 
 [submodule "Packages/python-pywin32"]
 url = https://github.com/evandroforks/python-pywin32
@@ -846,7 +846,7 @@ branches = master->master,
 [github fork "dae/anki"]
 url = https://github.com/evandroforks/anki
 upstream = https://github.com/dae/anki
-branches = master->master,
+branches = master->develop,
 
 [github fork "c42f/tinyformat"]
 url = https://github.com/evandroforks/tinyformat
@@ -871,16 +871,6 @@ branches = master->master,
 [submodule "Packages/TestPlier"]
 url = https://github.com/evandroforks/SublimeTestPlier
 upstream = https://github.com/asfaltboy/SublimeTestPlier
-branches = master->master,
-
-[submodule "Packages/LarkGrammarParser"]
-path = Packages/LarkGrammarParser
-url = https://github.com/evandroforks/lark_syntax
-branches = master->master,
-
-[submodule "Packages/SublimeLinter-pylint"]
-path = Packages/SublimeLinter-pylint
-url = https://github.com/evandroforks/SublimeLinter-pylint
 branches = master->master,
 
 [submodule "Packages/BeautifyJavaScript"]
