@@ -903,11 +903,6 @@ url = https://github.com/evandroforks/vscode-copy-with-line-numbers
 upstream = https://github.com/yassh/vscode-copy-with-line-numbers
 branches = master->master,
 
-[vscode-copy-with-line-numbers fork]
-url = https://github.com/evandroforks/lark
-upstream = https://github.com/lark-parser/lark
-branches = master->master,
-
 [submodule "Packages/Terminus"]
 url = https://github.com/evandroforks/Terminus
 upstream = https://github.com/randy3k/Terminus
